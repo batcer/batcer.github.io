@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>Code example test</title>
+  </head>
+  <body>
+
+    <pre>
+      <code>
+        <span><</span>div onclick="console.log(event)"<span>></span>Click me!<span>></span>/div<span>></span>
+        <span><</span>div onclick="alert('test')"<span>></span>Click me!<span>></span>/div<span>></span>
+      </code>
+    </pre>
+  
+  </body>
+</html>
